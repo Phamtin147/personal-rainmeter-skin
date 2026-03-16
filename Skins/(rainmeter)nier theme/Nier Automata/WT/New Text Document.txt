@@ -1,0 +1,1 @@
+String="https://weather.com/weather/today/l/#LocationCode#"

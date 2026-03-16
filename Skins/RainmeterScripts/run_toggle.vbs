@@ -1,0 +1,2 @@
+Set objShell = CreateObject("Shell.Application")
+objShell.ShellExecute "powershell.exe", "-ExecutionPolicy Bypass -NonInteractive -File ""C:\Users\Amtia\Documents\Rainmeter\Skins\RainmeterScripts\toggle_mode.ps1""", "", "runas", 0
